@@ -1,6 +1,6 @@
 # Multisite_ephys
 Code created during my PhD for processing electrophysiology data in MATLAB.
-These scripts supported the data pipeline: 
+These scripts support the data pipeline: 
   
   
 openEphys (continuous format)  
