@@ -23,8 +23,8 @@ Analysis in MATLAB
 ## Papers
 These scripts were used for analysis / figure making used in the papers:  
 
- - Sales AC, Newton GWT, Pickering AE, Dunham JP. Multisite silicon probes enable simultaneous recording of spontaneous and evoked activity in multiple isolated C-fibres in rat saphenous nerve. J Neurosci Methods. 2022 Feb 15;368:109419. doi: 10.1016/j.jneumeth.2021.109419. Epub 2021 Nov 17.
-  - Ito H, Sales AC, Fry CH, Kanai AJ, Drake MJ, Pickering AE. Probabilistic, spinally-gated control of bladder pressure and autonomous micturition by Barrington's nucleus CRH neurons. Elife. 2020 Apr 29;9:e56605. doi: 10.7554/eLife.56605. 
+- Sales AC, Newton GWT, Pickering AE, Dunham JP. Multisite silicon probes enable simultaneous recording of spontaneous and evoked activity in multiple isolated C-fibres in rat saphenous nerve. J Neurosci Methods. 2022 Feb 15;368:109419. doi: 10.1016/j.jneumeth.2021.109419. Epub 2021 Nov 17.
+
 
 These files are mainly for use by members of the Pickering Lab at the University of Bristol, and are written primarily as 'starter' scripts to be adapted for future experiments (they are not ready-to-use software)
 
